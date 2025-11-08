@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.first {
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+    background-color: rgb(255, 144, 181);
+}
+
+#dun {
+    font-size: 36px;
+    color: blue;
+
+}
+
+.first#odd {
+    font-size: 24px;
+}
+
+#dun2 {
+    font-size: 24px;
+    background-color: rgb(42, 255, 70);
+    font-weight: bolder
+}
